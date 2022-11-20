@@ -1,0 +1,17 @@
+# Compiled class file
+/build
+
+# Log file
+*.log
+
+# Android Studio
+.project
+.settings
+.classpath
+
+# Android
+.idea
+.gradle
+local.properties
+*.iml
+/android/
